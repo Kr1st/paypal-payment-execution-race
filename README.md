@@ -20,7 +20,7 @@ yarn start
 
 ### Test
 
-* Go to http://localhost:3000/index.hmlt
+* Go to http://localhost:3000
 * click checkout and follow the steps
 * Check that user has multiple transactions on https://www.sandbox.paypal.com/
 * You can change number of chanres by changing variable REPEATS. Some of the execute calls might fail though.
